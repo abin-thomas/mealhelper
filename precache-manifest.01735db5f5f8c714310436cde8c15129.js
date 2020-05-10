@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "572e163c39f7cd2318a0c97e225f2a30",
+    "revision": "89ce4c1b2d1de4061432b5421d4dd163",
     "url": "/mealhelper/index.html"
   },
   {
-    "revision": "e280a6d3618bcd34e005",
+    "revision": "15347dce7e1db8b3de21",
     "url": "/mealhelper/static/css/main.bc4f9902.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mealhelper/static/js/2.59d0a58b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e280a6d3618bcd34e005",
-    "url": "/mealhelper/static/js/main.39d7e775.chunk.js"
+    "revision": "15347dce7e1db8b3de21",
+    "url": "/mealhelper/static/js/main.fb98b765.chunk.js"
   },
   {
     "revision": "7894e20251f350e1165d",
